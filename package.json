@@ -209,7 +209,7 @@
     "@mdi/font": "5.8.55",
     "@panter/vue-i18next": "0.15.2",
     "@requarks/ckeditor5": "19.0.1-wiki.2",
-    "@vue/babel-preset-app": "4.5.15",
+    "@vue/babel-preset-app": "5.0.0",
     "animate-sass": "0.8.2",
     "animated-number-vue": "1.0.0",
     "apollo-cache-inmemory": "1.6.6",
